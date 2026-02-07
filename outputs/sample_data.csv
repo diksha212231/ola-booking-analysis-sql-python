@@ -1,0 +1,101 @@
+date,time,booking_id,booking_status,customer_id,vehicle_type,pickup_location,drop_location,avg_vtat,avg_ctat,cancelled_rides_by_customer,cancelled_rides_by_driver,incomplete_rides,incomplete_rides_reason,booking_value,payment_method,ride_distance,driver_ratings,customer_rating,payment_value
+2025-01-29,02:18:00,MUM0000001,Incomplete,CUST73037,Prime SUV,Ghatkopar West,Thane East,10,30,NO,NO,Yes,Vehicle breakdown during trip,360.22,CASH,0.0,0.0,0.0,180.11
+2025-01-12,13:33:00,MUM0000002,Cancelled,CUST37992,eBike,Malad East,Thane West,,,NO,Low fare or short trip,No,NA,570.47,Not Charged,0.0,0.0,0.0,0.0
+2025-01-23,16:05:00,MUM0000003,Incomplete,CUST68431,eBike,Bandra West,Colaba,10,30,NO,NO,Yes,Vehicle breakdown during trip,147.72,CASH,0.0,0.0,0.0,0.0
+2025-01-16,20:35:00,MUM0000004,Completed,CUST55906,eBike,Mulund West,Goregaon East,16,10,NO,NO,No,NA,863.22,UPI,15.76,3.5,4.2,863.22
+2025-01-16,21:42:00,MUM0000005,Incomplete,CUST29698,Mini,Mulund East,Cuffe Parade,10,30,NO,NO,Yes,Driver unable to locate pickup,749.76,UPI,0.0,0.0,0.0,0.0
+2025-01-16,10:11:00,MUM0000006,Incomplete,CUST29948,Mini,Malad West,Parel,10,30,NO,NO,Yes,Route blocked or severe traffic,880.06,CASH,0.0,0.0,0.0,440.03
+2025-01-05,19:31:00,MUM0000007,Incomplete,CUST23383,eBike,Borivali West,Chembur,10,30,NO,NO,Yes,Driver unable to locate pickup,309.12,CASH,0.0,0.0,0.0,309.12
+2025-01-04,20:28:00,MUM0000008,Completed,CUST14376,Prime Plus,Borivali East,Churchgate,4,44,NO,NO,No,NA,570.47,UPI,7.28,4.2,4.1,570.47
+2025-01-21,02:53:00,MUM0000009,Cancelled,CUST37270,Prime Plus,Santacruz West,Goregaon East,,,Change of travel plan,NO,No,NA,461.09,Not Charged,0.0,0.0,0.0,0.0
+2025-01-06,05:50:00,MUM0000010,Incomplete,CUST61193,Auto,Powai,Thane East,10,30,NO,NO,Yes,Route blocked or severe traffic,349.3,UPI,0.0,0.0,0.0,0.0
+2025-01-03,08:44:00,MUM0000011,Completed,CUST74772,Prime SUV,Chembur,Chembur,10,15,NO,NO,No,NA,657.39,CASH,18.16,4.3,3.5,657.39
+2025-01-01,16:00:00,MUM0000012,Completed,CUST77419,Auto,Vikhroli East,Ghatkopar East,3,15,NO,NO,No,NA,100.75,UPI,8.95,3.6,4.6,100.75
+2025-01-05,06:36:00,MUM0000013,Cancelled,CUST98396,Prime Plus,Malad West,Kurla East,,,Change of travel plan,NO,No,NA,532.35,Not Charged,0.0,0.0,0.0,0.0
+2025-01-23,21:36:00,MUM0000014,Completed,CUST19519,Bike,Vikhroli East,Bandra East,7,36,NO,NO,No,NA,115.77,UPI,19.69,3.6,4.1,115.77
+2025-01-21,17:39:00,MUM0000015,Cancelled,CUST41588,Prime Sedan,Vile Parle West,Bandra East,,,Found alternative transport,NO,No,NA,217.37,Not Charged,0.0,0.0,0.0,0.0
+2025-01-06,12:21:00,MUM0000016,Completed,CUST61546,Prime Plus,Borivali East,Borivali East,16,18,NO,NO,No,NA,744.54,CASH,33.36,4.4,4.5,744.54
+2025-01-13,22:19:00,MUM0000017,Completed,CUST91376,Prime SUV,Mulund East,Bandra West,12,44,NO,NO,No,NA,263.17,CASH,23.18,4.5,4.0,263.17
+2025-01-09,09:59:00,MUM0000018,Incomplete,CUST37063,Prime SUV,Malad East,Mazgaon,10,30,NO,NO,Yes,Route blocked or severe traffic,800.76,CASH,0.0,0.0,0.0,800.76
+2025-01-25,23:02:00,MUM0000019,Completed,CUST53748,Bike,Mulund East,Dadar East,6,40,NO,NO,No,NA,519.8,UPI,2.69,3.6,4.2,519.8
+2025-01-10,00:17:00,MUM0000020,Cancelled,CUST16410,Prime Sedan,Thane East,Santacruz West,,,NO,Customer not reachable,No,NA,392.02,Not Charged,0.0,0.0,0.0,0.0
+2025-01-28,04:17:00,MUM0000021,Completed,CUST65673,eBike,Colaba,Borivali West,6,50,NO,NO,No,NA,508.16,CASH,3.57,4.4,4.0,508.16
+2025-01-21,11:54:00,MUM0000022,Completed,CUST34665,Prime Sedan,Mulund West,Malad West,12,15,NO,NO,No,NA,217.98,CASH,30.89,4.4,3.7,217.98
+2025-01-14,04:15:00,MUM0000023,Completed,CUST94980,Mini,Bandra East,Bandra East,13,12,NO,NO,No,NA,439.11,CASH,25.63,4.9,3.7,439.11
+2025-01-04,16:12:00,MUM0000024,Incomplete,CUST19130,eBike,Goregaon West,Powai,10,30,NO,NO,Yes,Vehicle breakdown during trip,825.51,UPI,0.0,0.0,0.0,825.51
+2025-01-29,18:11:00,MUM0000025,Completed,CUST38239,Prime SUV,Dadar East,Andheri East,7,27,NO,NO,No,NA,310.93,CASH,20.29,4.8,4.0,310.93
+2025-01-20,00:17:00,MUM0000026,Cancelled,CUST87663,Mini,Kandivali East,Borivali East,,,NO,Traffic or route issue,No,NA,594.79,Not Charged,0.0,0.0,0.0,0.0
+2025-01-16,04:17:00,MUM0000027,Completed,CUST77356,Mini,Mulund East,Bandra West,8,41,NO,NO,No,NA,620.52,CASH,24.18,3.7,4.6,620.52
+2025-01-10,23:09:00,MUM0000028,Incomplete,CUST18428,Mini,Mulund East,Cuffe Parade,10,30,NO,NO,Yes,Vehicle breakdown during trip,187.09,CASH,0.0,0.0,0.0,0.0
+2025-01-23,17:31:00,MUM0000029,Completed,CUST66244,Auto,Lower Parel,Bhandup,6,27,NO,NO,No,NA,458.28,CASH,3.3,4.6,4.0,458.28
+2025-01-12,13:29:00,MUM0000030,Incomplete,CUST41370,eBike,Vikhroli West,Mulund West,10,30,NO,NO,Yes,Route blocked or severe traffic,289.7,UPI,0.0,0.0,0.0,0.0
+2025-01-25,04:15:00,MUM0000031,Completed,CUST67096,Bike,Dadar East,Bandra West,16,31,NO,NO,No,NA,812.76,UPI,3.04,4.7,4.3,812.76
+2025-01-15,04:05:00,MUM0000032,Incomplete,CUST89384,Bike,Jogeshwari West,Grant Road,10,30,NO,NO,Yes,Ride stopped midway due to emergency,95.91,CASH,0.0,0.0,0.0,47.955
+2025-01-29,03:09:00,MUM0000033,Completed,CUST96797,Bike,Ghatkopar West,Dadar East,12,48,NO,NO,No,NA,622.33,UPI,29.99,3.9,3.7,622.33
+2025-01-17,21:47:00,MUM0000034,Completed,CUST62284,Auto,Santacruz East,Goregaon East,2,27,NO,NO,No,NA,637.84,CASH,31.55,4.5,4.6,637.84
+2025-01-28,21:44:00,MUM0000035,Cancelled,CUST30521,Prime SUV,Grant Road,Charni Road,,,Emergency or personal reason,NO,No,NA,358.75,Not Charged,0.0,0.0,0.0,0.0
+2025-01-25,17:18:00,MUM0000036,Incomplete,CUST55528,Bike,Lower Parel,Kalbadevi,10,30,NO,NO,Yes,Driver unable to locate pickup,723.59,CASH,0.0,0.0,0.0,723.59
+2025-01-23,05:14:00,MUM0000037,Incomplete,CUST58282,Mini,Saki Naka,Cuffe Parade,10,30,NO,NO,Yes,Ride stopped midway due to emergency,856.98,UPI,0.0,0.0,0.0,856.98
+2025-01-29,05:15:00,MUM0000038,Completed,CUST82255,Bike,Malad East,Thane East,11,29,NO,NO,No,NA,496.25,CASH,39.98,3.9,4.2,496.25
+2025-01-07,19:22:00,MUM0000039,Completed,CUST16756,Prime SUV,Borivali West,Dadar East,14,26,NO,NO,No,NA,881.28,CASH,22.88,4.4,4.7,881.28
+2025-01-21,14:11:00,MUM0000040,Cancelled,CUST17142,Mini,Fort,Parel,,,NO,Pickup location too far,No,NA,159.48,Not Charged,0.0,0.0,0.0,0.0
+2025-01-07,21:42:00,MUM0000041,Cancelled,CUST10660,Prime Plus,Cuffe Parade,Dadar East,,,Fare too high,NO,No,NA,206.26,Not Charged,0.0,0.0,0.0,0.0
+2025-01-10,04:38:00,MUM0000042,Completed,CUST25610,Prime Sedan,Vikhroli East,Borivali West,15,50,NO,NO,No,NA,631.4,UPI,36.12,3.9,4.7,631.4
+2025-01-23,03:29:00,MUM0000043,Completed,CUST15061,Bike,Santacruz East,Thane West,16,50,NO,NO,No,NA,240.63,CASH,21.69,4.6,3.9,240.63
+2025-01-18,10:41:00,MUM0000044,Completed,CUST82883,Mini,Bhandup,Kandivali West,11,19,NO,NO,No,NA,217.06,UPI,11.67,4.6,4.3,217.06
+2025-01-18,16:26:00,MUM0000045,Completed,CUST93585,Mini,Marine Lines,Kurla West,18,42,NO,NO,No,NA,586.47,CASH,14.55,4.5,3.6,586.47
+2025-01-08,22:47:00,MUM0000046,Completed,CUST15061,Auto,Kandivali East,Malad East,3,30,NO,NO,No,NA,264.6,UPI,22.94,3.9,4.9,264.6
+2025-01-04,17:42:00,MUM0000047,Completed,CUST65620,Auto,Bhandup,Ghatkopar East,4,41,NO,NO,No,NA,134.7,CASH,18.27,4.7,4.5,134.7
+2025-01-02,01:46:00,MUM0000048,Completed,CUST99348,Prime SUV,Fort,Bhandup,10,50,NO,NO,No,NA,493.25,UPI,16.85,4.3,4.3,493.25
+2025-01-15,11:13:00,MUM0000049,Completed,CUST69254,Auto,Bandra East,Mazgaon,11,27,NO,NO,No,NA,644.74,CASH,33.65,4.1,4.0,644.74
+2025-01-13,13:52:00,MUM0000050,Completed,CUST77103,eBike,Mulund West,Mulund West,8,33,NO,NO,No,NA,710.86,CASH,9.33,3.9,3.9,710.86
+2025-01-17,22:10:00,MUM0000051,Completed,CUST89851,Prime Plus,Marine Lines,Thane West,12,39,NO,NO,No,NA,189.18,UPI,34.26,4.0,4.9,189.18
+2025-01-20,03:06:00,MUM0000052,Completed,CUST40026,Mini,Kandivali East,Borivali West,6,41,NO,NO,No,NA,828.27,UPI,1.92,5.0,4.7,828.27
+2025-01-03,17:19:00,MUM0000053,Completed,CUST30477,Prime Sedan,Vile Parle East,Goregaon East,10,10,NO,NO,No,NA,163.26,UPI,7.51,3.7,3.9,163.26
+2025-01-13,11:16:00,MUM0000054,Cancelled,CUST90501,Prime Plus,Kandivali East,Goregaon West,,,NO,Traffic or route issue,No,NA,338.2,Not Charged,0.0,0.0,0.0,0.0
+2025-01-28,21:06:00,MUM0000055,Incomplete,CUST25752,Prime Plus,Thane West,Parel,10,30,NO,NO,Yes,Route blocked or severe traffic,811.05,UPI,0.0,0.0,0.0,811.05
+2025-01-05,20:44:00,MUM0000056,Incomplete,CUST88982,Prime Sedan,Kalbadevi,Malad East,10,30,NO,NO,Yes,Customer no-show at pickup,754.88,CASH,0.0,0.0,0.0,0.0
+2025-01-04,17:26:00,MUM0000057,Cancelled,CUST11005,Mini,Bandra East,Kurla West,,,NO,Vehicle or personal issue,No,NA,651.82,Not Charged,0.0,0.0,0.0,0.0
+2025-01-20,15:44:00,MUM0000058,Incomplete,CUST13703,Bike,Byculla,Kanjurmarg,10,30,NO,NO,Yes,Vehicle breakdown during trip,157.76,CASH,0.0,0.0,0.0,0.0
+2025-01-07,10:28:00,MUM0000059,Cancelled,CUST82302,Bike,Andheri West,Kanjurmarg,,,Fare too high,NO,No,NA,206.12,Not Charged,0.0,0.0,0.0,0.0
+2025-01-25,15:37:00,MUM0000060,Incomplete,CUST33539,Auto,Vikhroli West,Vile Parle East,10,30,NO,NO,Yes,Vehicle breakdown during trip,716.69,UPI,0.0,0.0,0.0,358.345
+2025-01-05,23:54:00,MUM0000061,Completed,CUST67032,Prime Sedan,Andheri West,Santacruz West,11,19,NO,NO,No,NA,115.29,CASH,24.12,4.4,3.7,115.29
+2025-01-17,06:37:00,MUM0000062,Completed,CUST79964,Prime Sedan,Charni Road,Goregaon West,12,35,NO,NO,No,NA,279.71,UPI,5.02,4.7,4.6,279.71
+2025-01-14,13:06:00,MUM0000063,Incomplete,CUST56151,Prime Plus,Bandra East,Kanjurmarg,10,30,NO,NO,Yes,Payment issue,357.23,CASH,0.0,0.0,0.0,357.23
+2025-01-09,17:05:00,MUM0000064,Completed,CUST61610,eBike,Bhandup,Parel,5,25,NO,NO,No,NA,231.77,CASH,20.19,4.0,3.6,231.77
+2025-01-09,00:17:00,MUM0000065,Completed,CUST56712,Prime SUV,Thane East,Dadar East,10,34,NO,NO,No,NA,446.24,UPI,32.05,4.8,4.3,446.24
+2025-01-09,14:26:00,MUM0000066,Cancelled,CUST11611,Prime Sedan,Malad West,Bandra West,,,Found alternative transport,NO,No,NA,274.96,Not Charged,0.0,0.0,0.0,0.0
+2025-01-14,12:51:00,MUM0000067,Cancelled,CUST41112,Mini,Dadar East,Malad West,,,Fare too high,NO,No,NA,716.4,Not Charged,0.0,0.0,0.0,0.0
+2025-01-17,08:17:00,MUM0000068,Incomplete,CUST85400,Prime Plus,Bhandup,Santacruz West,10,30,NO,NO,Yes,Ride stopped midway due to emergency,564.07,UPI,0.0,0.0,0.0,282.035
+2025-01-05,11:49:00,MUM0000069,Completed,CUST26529,Prime SUV,Lower Parel,Thane East,11,30,NO,NO,No,NA,592.03,UPI,6.82,4.8,4.5,592.03
+2025-01-13,14:08:00,MUM0000070,Cancelled,CUST34770,Bike,Vikhroli East,Jogeshwari East,,,NO,Vehicle or personal issue,No,NA,787.55,Not Charged,0.0,0.0,0.0,0.0
+2025-01-18,23:53:00,MUM0000071,Completed,CUST70984,Bike,Grant Road,Vile Parle West,7,19,NO,NO,No,NA,890.68,CASH,1.14,4.0,4.6,890.68
+2025-01-15,09:18:00,MUM0000072,Completed,CUST76158,Bike,Vile Parle West,Vile Parle West,4,41,NO,NO,No,NA,178.29,UPI,18.29,4.9,4.6,178.29
+2025-01-23,20:49:00,MUM0000073,Completed,CUST75308,Bike,Bandra East,Cuffe Parade,7,46,NO,NO,No,NA,544.28,CASH,10.29,3.9,4.5,544.28
+2025-01-01,12:27:00,MUM0000074,Cancelled,CUST51937,Prime Plus,Thane West,Vile Parle West,,,NO,Low fare or short trip,No,NA,559.91,Not Charged,0.0,0.0,0.0,0.0
+2025-01-04,10:34:00,MUM0000075,Completed,CUST74637,Bike,Kandivali West,Bhandup,8,42,NO,NO,No,NA,590.81,CASH,1.05,4.1,4.1,590.81
+2025-01-26,08:53:00,MUM0000076,Completed,CUST25597,Prime Plus,Kandivali West,Thane West,5,48,NO,NO,No,NA,278.32,UPI,23.85,4.7,4.2,278.32
+2025-01-24,06:58:00,MUM0000077,Cancelled,CUST27436,Prime Sedan,Kurla East,Jogeshwari West,,,NO,Traffic or route issue,No,NA,457.82,Not Charged,0.0,0.0,0.0,0.0
+2025-01-17,05:45:00,MUM0000078,Incomplete,CUST81297,eBike,Fort,Kandivali East,10,30,NO,NO,Yes,Customer no-show at pickup,759.43,CASH,0.0,0.0,0.0,0.0
+2025-01-18,17:29:00,MUM0000079,Incomplete,CUST49005,Auto,Kanjurmarg,Kurla East,10,30,NO,NO,Yes,Vehicle breakdown during trip,726.2,UPI,0.0,0.0,0.0,363.1
+2025-01-14,20:09:00,MUM0000080,Completed,CUST13842,Prime Plus,Byculla,Jogeshwari West,10,39,NO,NO,No,NA,541.6,CASH,37.17,4.8,4.2,541.6
+2025-01-24,05:00:00,MUM0000081,Completed,CUST48502,Prime Plus,Chembur,Powai,18,41,NO,NO,No,NA,644.3,CASH,21.53,3.9,4.0,644.3
+2025-01-19,21:46:00,MUM0000082,Incomplete,CUST44395,eBike,Vikhroli East,Goregaon East,10,30,NO,NO,Yes,Route blocked or severe traffic,242.32,UPI,0.0,0.0,0.0,0.0
+2025-01-04,15:36:00,MUM0000083,Completed,CUST88783,Prime SUV,Chembur,Bandra West,18,18,NO,NO,No,NA,117.62,CASH,5.06,4.4,4.4,117.62
+2025-01-23,21:39:00,MUM0000084,Cancelled,CUST94832,Prime Sedan,Mulund East,Borivali East,,,NO,Customer not reachable,No,NA,294.19,Not Charged,0.0,0.0,0.0,0.0
+2025-01-03,18:41:00,MUM0000085,Incomplete,CUST10246,Mini,Parel,Kanjurmarg,10,30,NO,NO,Yes,Vehicle breakdown during trip,468.43,UPI,0.0,0.0,0.0,0.0
+2025-01-27,23:39:00,MUM0000086,Incomplete,CUST61969,eBike,Ghatkopar East,Borivali East,10,30,NO,NO,Yes,Payment issue,577.59,UPI,0.0,0.0,0.0,0.0
+2025-01-30,12:42:00,MUM0000087,Cancelled,CUST92207,Bike,Santacruz West,Vile Parle West,,,Emergency or personal reason,NO,No,NA,350.15,Not Charged,0.0,0.0,0.0,0.0
+2025-01-11,16:39:00,MUM0000088,Cancelled,CUST18679,Prime Plus,Mulund East,Kanjurmarg,,,NO,Customer not reachable,No,NA,202.23,Not Charged,0.0,0.0,0.0,0.0
+2025-01-21,13:24:00,MUM0000089,Cancelled,CUST23924,eBike,Saki Naka,Powai,,,NO,Vehicle or personal issue,No,NA,302.99,Not Charged,0.0,0.0,0.0,0.0
+2025-01-18,21:14:00,MUM0000090,Completed,CUST75223,Prime Plus,Charni Road,Lower Parel,16,16,NO,NO,No,NA,292.48,CASH,14.01,4.5,4.5,292.48
+2025-01-28,21:00:00,MUM0000091,Cancelled,CUST29015,eBike,Marine Lines,Mazgaon,,,NO,Low fare or short trip,No,NA,333.2,Not Charged,0.0,0.0,0.0,0.0
+2025-01-11,04:52:00,MUM0000092,Cancelled,CUST89008,Bike,Ghatkopar West,Jogeshwari East,,,Driver taking too long to arrive,NO,No,NA,506.93,Not Charged,0.0,0.0,0.0,0.0
+2025-01-23,04:39:00,MUM0000093,Completed,CUST34571,Prime SUV,Malad West,Charni Road,16,44,NO,NO,No,NA,837.6,CASH,6.31,4.3,4.7,837.6
+2025-01-06,07:37:00,MUM0000094,Cancelled,CUST61750,eBike,Andheri East,Malad West,,,NO,Traffic or route issue,No,NA,754.32,Not Charged,0.0,0.0,0.0,0.0
+2025-01-13,13:11:00,MUM0000095,Cancelled,CUST82921,eBike,Kandivali East,Vile Parle East,,,NO,Traffic or route issue,No,NA,180.29,Not Charged,0.0,0.0,0.0,0.0
+2025-01-10,07:34:00,MUM0000096,Completed,CUST62503,Bike,Vile Parle West,Mulund West,13,49,NO,NO,No,NA,771.65,CASH,1.5,4.9,4.5,771.65
+2025-01-29,01:46:00,MUM0000097,Completed,CUST13154,Prime SUV,Malad East,Vikhroli East,10,39,NO,NO,No,NA,476.44,UPI,21.25,4.1,4.0,476.44
+2025-01-22,20:47:00,MUM0000098,Incomplete,CUST44687,Prime Plus,Jogeshwari East,Kurla West,10,30,NO,NO,Yes,Ride stopped midway due to emergency,563.01,UPI,0.0,0.0,0.0,281.505
+2025-01-25,04:53:00,MUM0000099,Completed,CUST17934,Prime SUV,Ghatkopar West,Goregaon East,5,50,NO,NO,No,NA,840.97,CASH,19.28,4.5,4.4,840.97
+2025-01-21,23:00:00,MUM0000100,Incomplete,CUST53804,Bike,Chembur,Churchgate,10,30,NO,NO,Yes,Driver unable to locate pickup,329.16,CASH,0.0,0.0,0.0,164.58

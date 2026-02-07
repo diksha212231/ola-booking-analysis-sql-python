@@ -26,6 +26,14 @@ The dataset contains ride-level booking information including:
 - Payment methods
 - Customer and driver ratings
 
+    ## Note-
+
+ - Full dataset: `ola_booking_cleaned.csv` (large file - may not preview on GitHub)
+ - Sample data: `sample_data.csv` (for quick preview)
+ 
+    [Click here to view sample_data.csv](outputs/sample_data.csv)
+
+  
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -37,22 +45,28 @@ The dataset contains ride-level booking information including:
 ---
 
 ## 📁 Project Folder Structure
+
 ```
 ola_booking_analysis/
-│
-├── dataset/
-│ └── Mumbai_Ride_Data.csv
-│
-├── sql_queries/
-│ └── sql_analysis.ipynb
-│
-├── outputs/
-│ └── ola_booking_cleaned.csv
-│
-├── data_cleaning.ipynb
-├── eda.ipynb
-├── visualization.ipynb
-└── README.md
+|
+|-- dataset/
+|   |-- Mumbai_Ride_Data.csv 
+|
+|-- sql_queries/
+|   |-- sql_analysis.ipynb
+|
+|-- outputs/
+|   |-- ola_booking_cleaned.csv
+|   |-- sample_data.csv
+|
+|-- Notebook/
+|   |-- data_cleaning.ipynb
+|   |-- eda.ipynb
+|   |-- visualization.ipynb
+|   |-- can_analysis.png
+|
+|--Readme.md
+
 
 ```
 ---
